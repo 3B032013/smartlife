@@ -1,0 +1,22 @@
+{
+  "name": "smartlife",
+  "version": "1.0.0",
+  "description": "Smart Life",
+  "main": "smartlife.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3B032013/smartlife.git"
+  },
+  "author": "Bernie Chen",
+  "license": "ISC",
+  "private": false,
+  "scripts": {
+    "start": "node smartlife.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
